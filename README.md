@@ -25,11 +25,6 @@ module.exports = {
     password: '',
   },
   secretValue: '', // secret of json web token
-  qiniu: { // qiniu cdn configuration
-    accessKey: '',
-    secretKey: '',
-    bucket: ''
-  }
 };
 ```
 
